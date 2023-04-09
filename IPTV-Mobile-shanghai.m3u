@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/ChfbGqR.png" group-title="中央电视台",CCTV-1综合
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586773068_87.png" group-title="中央电视台",CCTV-1综合
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WODuqGT.png" group-title="中央电视台",CCTV-2财经
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586768395_210.png" group-title="中央电视台",CCTV-2财经
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/tYtUmUR.png" group-title="中央电视台",CCTV-3综艺
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586763825_455.png" group-title="中央电视台",CCTV-3综艺
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中央电视台",CCTV-4中文国际
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586745032_233.png" group-title="中央电视台",CCTV-4中文国际
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/EqURkoF.png" group-title="中央电视台",CCTV-5体育
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586717128_175.png" group-title="中央电视台",CCTV-5体育
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/uW1b1KO.png" group-title="中央电视台",CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586530639_661.png" group-title="中央电视台",CCTV-5+体育赛事
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/dDqvRHX.png" group-title="中央电视台",CCTV-6电影
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586710465_498.png" group-title="中央电视台",CCTV-6电影
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/g7nb3L0.png" group-title="中央电视台",CCTV-7国防军事
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564559495112_238.png" group-title="中央电视台",CCTV-7国防军事
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7050628689018054317&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/WG8ENnR.png" group-title="中央电视台",CCTV-8电视剧
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586687646_743.png" group-title="中央电视台",CCTV-8电视剧
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/3R1dkIK.png" group-title="中央电视台",CCTV-9纪录
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586681795_766.png" group-title="中央电视台",CCTV-9纪录
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/PKtBUL2.png" group-title="中央电视台",CCTV-10科教
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586655014_328.png" group-title="中央电视台",CCTV-10科教
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=7019587760656900133&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YYcuZjn.png" group-title="中央电视台",CCTV-11戏曲
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586640573_700.png" group-title="中央电视台",CCTV-11戏曲
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/8COTDdm.png" group-title="中央电视台",CCTV-12社会与法制
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586635222_809.png" group-title="中央电视台",CCTV-12社会与法制
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/GGHckoY.png" group-title="中央电视台",CCTV-13新闻
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586619347_364.png" group-title="中央电视台",CCTV-13新闻
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/18/1647592530516_684.png" group-title="中央电视台",CCTV-14少儿
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586612691_994.png" group-title="中央电视台",CCTV-14少儿
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/m2R60TJ.png" group-title="中央电视台",CCTV-15音乐
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/3/1530586604971_463.png" group-title="中央电视台",CCTV-15音乐
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
-#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/vOPU9eu.png" group-title="中央电视台",CCTV-17农业农村
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2019/7/31/1564582431720_401.png" group-title="中央电视台",CCTV-17农业农村
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 tvg-id="AnhuiSatelliteTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/sgfXb6z.png" group-title="地方卫视",安徽卫视
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=4774346722046993363&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
